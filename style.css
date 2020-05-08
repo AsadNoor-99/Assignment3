@@ -1,0 +1,111 @@
+.p1{
+    text-align: center;
+   margin: 10px;
+    color: white;
+    font-size: 17px;
+}
+.d1{
+background-color: white;
+width: 90px;
+float: left;
+margin-left: 45px;
+margin-top: 12px;
+font-size: 15px;
+text-align: center;
+
+}
+
+.d2{
+    background-color: white;
+    width: 90px;
+    float: left;
+    margin-left: 7px;
+    margin-top: 12px;
+    font-size: 15px;
+    text-align: center;
+}
+
+.d3{
+    background-color: white;
+    width: 90px;
+    float: left;
+    margin-left: 7px;
+    margin-top: 12px;
+    font-size: 15px;
+    text-align: center;
+}
+.imag1{
+    width: 250px;
+    height: 60px;
+    margin-left: 30px;
+}
+
+ul{
+    padding: 0px;
+    margin: 3px;
+    list-style: none;
+}
+ul li{
+    float: left;
+    width: 100px;
+    height: 40px;
+    background-color:rgb(104, 16, 16);
+    font-size: 12px;
+    text-align: center;
+    color: white;
+    padding-top: 10px;
+    
+    margin:5px;
+    
+   
+}
+ul li ul li{
+    width: 100px;
+  
+   height: 50px;
+   display: none;
+   padding: 10px;
+   margin: 0px;
+   
+}
+ul li:hover{
+    background-color:green;
+}
+ul li:hover ul li{
+    display: block;
+}
+.a1{
+    line-height: 30px;
+    padding-left: 130px;
+    padding-right: 110px;
+    text-align: justify;
+    
+}
+.a2{
+    line-height: 30px;
+    padding-left: 130px;
+    padding-right: 110px;
+    text-align: justify;
+    
+}
+    
+.a3{
+    line-height: 30px;
+    padding-left: 130px;
+    padding-right: 110px;
+    text-align: justify;
+    
+    
+}
+
+.a4{
+    line-height: 30px;
+    padding-left: 130px;
+    padding-right: 110px;
+    text-align: justify;
+    
+    
+}
+.j{
+    margin-top: 1px;
+    background-color:rgb(204, 204, 204) ;
